@@ -1,0 +1,15 @@
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/obj/Debug/net10.0/hinge.GeneratedMSBuildEditorConfig.editorconfig
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/obj/Debug/net10.0/hinge.AssemblyInfoInputs.cache
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/obj/Debug/net10.0/hinge.AssemblyInfo.cs
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/obj/Debug/net10.0/hinge.csproj.CoreCompileInputs.cache
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/obj/Debug/net10.0/hinge.sourcelink.json
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/bin/Debug/net10.0/hinge
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/bin/Debug/net10.0/hinge.deps.json
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/bin/Debug/net10.0/hinge.runtimeconfig.json
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/bin/Debug/net10.0/hinge.dll
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/bin/Debug/net10.0/hinge.pdb
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/obj/Debug/net10.0/hinge.dll
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/obj/Debug/net10.0/refint/hinge.dll
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/obj/Debug/net10.0/hinge.pdb
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/obj/Debug/net10.0/hinge.genruntimeconfig.cache
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/hinge/obj/Debug/net10.0/ref/hinge.dll
